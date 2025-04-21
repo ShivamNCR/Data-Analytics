@@ -19,11 +19,17 @@ Unique Customers (Month-wise)
 🗂️ Dimensions Explored:
 
 Market
+
 Country
+
 Region
+
 Year
+
 Product Categories (Technology, Furniture, Office Supplies)
+
 Customer Segments (Consumer, Corporate, Home Office)
+
 Shipping Modes (Country-wise, Region-wise)
 
 Dashboard_Preview...
@@ -36,15 +42,21 @@ Dashboard_Preview...
 🧠 Key Insights
 
 Region X showed the highest profit-to-sales ratio.
+
 Shipping Mode Y was most cost-effective in Region Z.
+
 Consumer segment had the highest order frequency, but Corporate was more profitable.
+
 Highest growth potential identified in Europe (Furniture category).
 
 🔧 Tools & Technologies
 
 Power BI
+
 Data Cleaning & Transformation (Power Query)
+
 DAX Measures & Visuals
+
 GitHub for documentation and sharing
 
 
