@@ -1,6 +1,6 @@
-📦 ##Supply Chain Optimization Project
+📦 ## Supply Chain Optimization Project
 
-##🧠 Objective:
+#🧠 Objective:
 To optimize sales performance, marketing effectiveness, and logistics efficiency using a large-scale supply chain dataset (~180K+ records). This project involved uncovering data-driven insights 
 related to customer behavior, discount strategies, shipping delays, product performance, and regional market trends — enabling smarter business decisions and operational improvements.
 
