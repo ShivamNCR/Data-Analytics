@@ -1,3 +1,6 @@
+### Click for report and visualization sheet : 
+https://d.docs.live.net/ADEB5DEBE043125A/Documents/Supply_Chain_Optimization.xlsx
+
 # 📦  Supply Chain Optimization Project
 
 ## 🧠 Objective:
